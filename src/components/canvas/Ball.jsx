@@ -63,10 +63,11 @@ const BallCanvas = ({ icon }) => {
         <OrbitControls
           enableZoom={false}
           autoRotate
+          maxPolarAngle={Math.PI / 2}
+          minPolarAngle={Math.PI / 2}
         />
         <Ball imgUrl={icon} />
       </Suspense>
-
       <Preload all />
     </Canvas>
   );
