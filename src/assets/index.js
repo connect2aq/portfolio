@@ -34,6 +34,7 @@ import mobily from './company/mobily.png';
 import bonzerflix from './bonzerflix.png';
 import bonzerstore from './bonzerstore.png';
 import website from './website.png';
+import hero from './hero.webp';
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   bonzerflix,
   bonzerstore,
   website,
+  hero,
 };

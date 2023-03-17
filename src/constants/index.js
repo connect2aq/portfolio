@@ -46,7 +46,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'CEO / Web Development',
+    title: 'Web Development',
     icon: web,
   },
   {
@@ -97,10 +97,6 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: 'Three JS',
-    icon: threejs,
-  },
-  {
     name: 'git',
     icon: git,
   },
@@ -112,7 +108,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'CEO / Web Developer',
+    title: 'Web Developement',
     company_name: 'Bonzer Point',
     icon: bonzerpoint,
     iconBg: '#6936F5',
